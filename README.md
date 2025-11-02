@@ -1,2 +1,14 @@
-# con-cari-o-para-una-persona-iimportante
-quiero aclara que es una persona muy importante en mi vida...
+# Kado
+-Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+
+
+# Description
+Flower code tiktok trend 
+
+Responsive Web -- bisa langsung disesuikan di file css --> style.css
+
+# Author
+- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
+- Index Code : Septian Dwi Cahyo (@Septiandwica)
+
+Thanks to codepan and mdusmanansari
